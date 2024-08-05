@@ -2,7 +2,7 @@ Hi Im HPnetwork.
 
 You can call me HP.
 
-I am the owner of SeabedCraft.cn (a MinecraftServer)
+I am the owner of www.asiawings.cn (a MinecraftServer)
 
 Nice You Meet You.
 
