@@ -1,8 +1,10 @@
-Hi Im HPnetwork.
+<h1 align="center">Hi there 👋, I'm HPnetwork</h1>
 
-You can call me HP.
+<p>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=I%27m+HPnetwork" alt="typing-svg">
+</p>
 
-I am the owner of www.asiawings.cn (a MinecraftServer)
+I am the owner of mc.asiawings.cn (a MinecraftServer)
 
 Nice You Meet You.
 
