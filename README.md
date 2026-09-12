@@ -22,35 +22,48 @@ I mainly use **Java**, but I like trying different things and learning along the
 
 ## 🧩 Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="52" alt="Java">
+  <img src="https://skillicons.dev/icons?i=linux" height="52" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=docker" height="52" alt="Docker">
+  <img src="https://skillicons.dev/icons?i=redis" height="52" alt="Redis">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="52" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=mysql" height="52" alt="MySQL">
+</p>
+
+<p align="center">
+  <code>Java</code>
+  <code>Python</code>
+  <code>Linux</code>
+  <code>Docker</code>
+  <code>Redis</code>
+  <code>MongoDB</code>
+  <code>MySQL</code>
+</p>
+
+<br>
 
 ### 🎮 Minecraft
 
-Paper / Spigot / Velocity
+<p>
+  <b>Paper</b> · <b>Spigot</b> · <b>Velocity</b> · <b>NMS</b>
+</p>
 
-Plugins · NMS · Minigames
+<p>
+  Plugins · Minigames · Server Systems · Network · Performance
+</p>
 
-Server Systems · Network
-
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 ### ⚙️ Development
 
-Java / Python
+<p>
+  Java · Python · Linux · Docker
+</p>
 
-Linux · Docker
-
-Redis · MongoDB · MySQL
-
-Bots · Tools · Automation
-
-</td>
-</tr>
-</table>
+<p>
+  Redis · MongoDB · MySQL · Bots · Tools · Automation
+</p>
 
 <br>
 
@@ -64,34 +77,20 @@ Mostly:
 
 <br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HP-network&bg_color=ffffff00&color=58A6FF&line=58A6FF&point=7C3AED&area=true&hide_border=true"
-    width="92%"
-    alt="GitHub Activity Graph"
-  >
-</p>
-
-<br>
-
-## 🐍 Contributions
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HP-network/HP-network/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HP-network/HP-network/output/github-contribution-grid-snake.svg"
-  >
+    src="./profile/stats.svg"
+    height="170"
+    alt="GitHub Stats"
+  />
   <img
-    src="https://raw.githubusercontent.com/HP-network/HP-network/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake"
-  >
-</picture>
+    src="./profile/top-langs.svg"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 
 <br>
 
