@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">HPnetwork&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 20, Total PRs: 27, Total Issues: 1, Contributed to (last year): 19</desc>
+        <title id="titleId">HPnetwork&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 20, Total PRs: 34, Total Issues: 1, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 220.29344069454098;
+        stroke-dashoffset: 216.29698080561752;
       }
     }
   
@@ -150,7 +150,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >27</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >19</text>
+      >22</text>
     </g>
   </g>
     </svg>
