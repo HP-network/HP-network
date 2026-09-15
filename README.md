@@ -23,46 +23,17 @@ I mainly use **Java**, but I like trying different things and learning along the
 ## 🧩 Focus
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="52" alt="Java">
-  <img src="https://skillicons.dev/icons?i=linux" height="52" alt="Linux">
-  <img src="https://skillicons.dev/icons?i=docker" height="52" alt="Docker">
-  <img src="https://skillicons.dev/icons?i=redis" height="52" alt="Redis">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="52" alt="MongoDB">
-  <img src="https://skillicons.dev/icons?i=mysql" height="52" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=java,python,linux,docker,redis,mongodb,mysql&perline=7" height="46" alt="Java, Python, Linux, Docker, Redis, MongoDB and MySQL">
 </p>
-
-<p align="center">
-  <code>Java</code>
-  <code>Python</code>
-  <code>Linux</code>
-  <code>Docker</code>
-  <code>Redis</code>
-  <code>MongoDB</code>
-  <code>MySQL</code>
-</p>
-
-<br>
 
 ### 🎮 Minecraft
 
-<p>
-  <b>Paper</b> · <b>Spigot</b> · <b>Velocity</b> · <b>NMS</b>
+<p align="center">
+  <img src="./profile/minecraft-stack.svg" width="760" alt="Animated Paper, Spigot and Velocity server pipeline">
 </p>
 
-<p>
-  Plugins · Minigames · Server Systems · Network · Performance
-</p>
-
-<br>
-
-### ⚙️ Development
-
-<p>
-  Java · Python · Linux · Docker
-</p>
-
-<p>
-  Redis · MongoDB · MySQL · Bots · Tools · Automation
+<p align="center">
+  <sub>Plugins · Mods · Servers · Networks</sub>
 </p>
 
 <br>
@@ -73,7 +44,9 @@ I'm working on Minecraft-related projects around **Asiawings**.
 
 Mostly:
 
-`Plugins` · `Servers` · `Network` · `Tools`
+<p align="center">
+  <img src="./profile/currently-strip.svg" width="760" alt="Animated plugins, mods, servers and networks chart">
+</p>
 
 <br>
 
@@ -90,6 +63,10 @@ Mostly:
     height="170"
     alt="Top Languages"
   />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HP-network/HP-network/output/github-contribution-grid-snake-dark.svg" width="760" alt="Animated contribution graph">
 </p>
 
 <br>
