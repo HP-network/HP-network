@@ -38,6 +38,20 @@ I mainly use **Java**, but I like trying different things and learning along the
 
 <br>
 
+## 🛠️ Featured Project
+
+<p align="center">
+  <a href="https://github.com/HP-network/mcstatus-cli">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HP-network&repo=mcstatus-cli&theme=github_dark&hide_border=true" alt="mcstatus-cli">
+  </a>
+</p>
+
+<p align="center">
+  A small Java CLI that queries Minecraft Java Edition servers without RCON or plugins.
+</p>
+
+<br>
+
 ## 🌌 Currently
 
 I'm working on Minecraft-related projects around **Asiawings**.
