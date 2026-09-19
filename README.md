@@ -41,13 +41,13 @@ I mainly use **Java**, but I like trying different things and learning along the
 ## 🛠️ Featured Project
 
 <p align="center">
-  <a href="https://github.com/HP-network/mcstatus-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HP-network&repo=mcstatus-cli&theme=github_dark&hide_border=true" alt="mcstatus-cli">
+  <a href="https://github.com/HP-network/oss-health-check">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HP-network&repo=oss-health-check&theme=github_dark&hide_border=true" alt="oss-health-check">
   </a>
 </p>
 
 <p align="center">
-  A small Java CLI that queries Minecraft Java Edition servers without RCON or plugins.
+  Local-first repository readiness checks with terminal, JSON, Markdown, and GitHub Action output.
 </p>
 
 <br>
