@@ -38,20 +38,6 @@ I mainly use **Java**, but I like trying different things and learning along the
 
 <br>
 
-## 🛠️ Featured Project
-
-<p align="center">
-  <a href="https://github.com/HP-network/env-contract">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HP-network&repo=env-contract&theme=github_dark&hide_border=true" alt="env-contract">
-  </a>
-</p>
-
-<p align="center">
-  AI provider configuration contracts with validation, safe templates, JSON, SARIF, and GitHub Action output.
-</p>
-
-<br>
-
 ## 🌌 Currently
 
 I'm working on Minecraft-related projects around **Asiawings**.
